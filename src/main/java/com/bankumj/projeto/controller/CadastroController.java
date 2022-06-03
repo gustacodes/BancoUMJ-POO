@@ -162,8 +162,8 @@ public class CadastroController implements Initializable {
                         }
 
                         if (aux == true) {
-                            String meuEmail = "gustavorique@live.com";
-                            String minhaSenha = "arris15421542";
+                            String meuEmail = "email@live.com";
+                            String minhaSenha = "*******";
 
                             Properties p = new Properties();
 
