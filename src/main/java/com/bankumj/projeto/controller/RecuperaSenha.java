@@ -56,8 +56,8 @@ public class RecuperaSenha {
                     email = rs.getString("email");
 
                     if(recuperaSenha.getText().equals(email)){
-                        String meuEmail = "gustavorique@live.com";
-                        String minhaSenha = "arris15421542";
+                        String meuEmail = "email@live.com";
+                        String minhaSenha = "*******";
 
                         aux = true;
 
