@@ -1,6 +1,6 @@
 # BancoUMJ - Projeto de POO - VA2
 
-  <b>FACULDADE:</b> Centro Universitário Mário Pontes Jucá - UMJ</br>
+  <b>INSTITUIÇÃO:</b> Centro Universitário Mário Pontes Jucá - UMJ</br>
   <b>CURSO:</b> Análise e Desenvolvimento de Sistemas</br>
 
   <b>PROGRAMA DESENVOLVIDO POR:</b>
