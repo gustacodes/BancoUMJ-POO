@@ -23,7 +23,7 @@
     
    <b>- LOGIN</b></br>
    
-   - Verifica se o usuário (e-mail ou CPF) está cadastrado no sistema, se sim, efetua o login, caso contrário, será exibido uma mensagem de erro.
+   - Verifica se o usuário (e-mail ou CPF) está cadastrado no sistema. Se sim, efetua o login, caso contrário, será exibido uma mensagem de erro.
 
    ![Screenshot_1](https://user-images.githubusercontent.com/86691048/171875859-350db873-73a2-46bd-931e-05750a4b67f1.png)
    
