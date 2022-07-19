@@ -3,7 +3,7 @@
   <b>INSTITUIÇÃO:</b> Centro Universitário Mário Pontes Jucá - UMJ</br>
   <b>CURSO:</b> Análise e Desenvolvimento de Sistemas</br>
 
-  <b>PROGRAMA DESENVOLVIDO POR:</b>
+  <b>SOFTWARE DESENVOLVIDO POR:</b>
   
   @Gustavo Henrique - gustalencarvalho@gmail.com</br>
   @Eraldo Mendes    - whitemusicofc@gmail.com</br>
